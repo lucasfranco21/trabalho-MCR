@@ -8,4 +8,4 @@ faz com que os leds acendam no protoboard usando o ESP32 como uma casa com as lu
 
 ### Fotos:
 
-![sdsada](https://i.imgur.com/ItWcmZG.jpg)
+![foto do projeto](https://i.imgur.com/ItWcmZG.jpg)
